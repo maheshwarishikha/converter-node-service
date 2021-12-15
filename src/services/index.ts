@@ -1,7 +1,7 @@
 import { Container } from "typescript-ioc";
 
-export * from './hello-world.api';
-export * from './hello-world.service';
+export * from './number2Roman.api';
+export * from './number2Roman.service';
 
 import config from './ioc.config';
 
